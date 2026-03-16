@@ -1,14 +1,15 @@
+
 # GeoPredict — Geopolymer Concrete Strength Predictor
 ## Complete Setup & Deployment Guide
 
 > **Developed by:** Sarfe Alam — [LinkedIn](https://www.linkedin.com/in/sarfe-alam-92a213300)  
 > **Guided by:** Ass. Prof. Saurav (BCE)
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 geopolymer-predictor/
 ├── main.py                          ← FastAPI backend (Python)
 ├── requirements.txt                 ← Python dependencies
@@ -274,3 +275,5 @@ curl -X POST "http://localhost:8000/predict" \
 ---
 
 *© 2025 GeoPredict — For academic & research use. Verify with lab testing for structural design.*
+
+
